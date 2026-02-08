@@ -50,15 +50,6 @@ Currently expanding my expertise in **backend systems**, **databases**, and **cl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=consbenjamin&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=consbenjamin&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
