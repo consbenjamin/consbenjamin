@@ -37,10 +37,8 @@ Currently expanding my expertise in **backend systems**, **databases**, and **cl
 
 ### 🚀 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,cursor,docker" />
 </p>
-
-**Development Environment:** Cursor (AI-assisted workflow)
 
 ---
 
