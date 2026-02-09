@@ -37,7 +37,8 @@ Currently expanding my expertise in **backend systems**, **databases**, and **cl
 
 ### 🚀 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,cursor,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" height="48" alt="Cursor" />
 </p>
 
 ---
