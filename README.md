@@ -3,6 +3,10 @@
 <h3 align="center">Full-Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
+  <b>Based in Córdoba, Argentina 🇦🇷</b><br/>
+</p>
+
+<p align="center">
   <a href="https://constantinoabba.vercel.app/" target="_blank"><b>🌐 Portfolio</b></a> •
   <a href="mailto:cons_benjamin9@outlook.com"><b>📩 Email</b></a> •
   <a href="https://www.linkedin.com/in/constantinoabba/" target="_blank"><b>LinkedIn</b></a>
