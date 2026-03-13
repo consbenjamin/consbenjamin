@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Constantino Abba 👋</h1>
+<h1 align="center">Hi, I'm Constantino Abba 🧉</h1>
 <h3 align="center">Full-Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
